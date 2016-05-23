@@ -1,0 +1,23 @@
+Enter next test score: 93
+Enter next test score: 45
+Enter next test score: 88
+Enter next test score: 89
+Enter next test score: -1
+Average: 78.00
+
+Enter next test score: 68
+Enter next test score: 100
+Enter next test score: -1
+Average: 85.00
+
+Enter next test score: 86
+Enter next test score: 90
+Enter next test score: 86
+Enter next test score: 96
+Enter next test score: 68
+Enter next test score: 82
+Enter next test score: -1
+Average: 84.00
+
+Average: 0.00
+
